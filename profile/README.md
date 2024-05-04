@@ -18,7 +18,6 @@
 <img src="/img/semillero/teleoperado.gif" width="100"/>
 </div>
 
-<a href="#"><img src="/img/semillero/background.png" width="100" align="right"  alt="robot siro"/></a>
 
 ᴀQᴜÍ ᴘᴏᴅʀÁɴ ᴀᴘʀᴇɴᴅᴇʀ, ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʀ ʏ ᴅᴀʀ ʀɪᴇɴᴅᴀ ꜱᴜᴇʟᴛᴀ ᴀ ꜱᴜ ᴄʀᴇᴀᴛɪᴠɪᴅᴀᴅ ᴇɴ ᴇʟ ᴇᴍᴏᴄɪᴏɴᴀɴᴛᴇ ᴍᴜɴᴅᴏ ᴅᴇ ʟᴀ ʀᴏʙÓᴛɪᴄᴀ. 💻💖☕
 
