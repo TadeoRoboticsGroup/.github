@@ -61,7 +61,7 @@
 ## ᴇQᴜɪᴘᴏ ᴅᴇ ʀᴏʙᴏᴛɪꜱᴛᴀꜱ 🤝
 <img src="/img/semillero/team2.jpg" width="340"/>
 
-## 🍀 TOMEMOS UN CAFÉ
+## 🍀 ɪɴᴠɪᴛᴀɴᴏꜱ ᴀ ᴜɴ ᴄᴀꜰÉ ʏ ʜᴀʙʟᴇᴍᴏꜱ ᴅᴇ ʀᴏʙᴏᴛꜱ ☕
 
 [![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee)
 
