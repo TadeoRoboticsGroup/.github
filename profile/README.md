@@ -1,25 +1,42 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=70&width=950&lines=¡La+revolución+robótica+comienza+aquí!" alt="Title"></img></div>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=70&width=950&lines=¡La+revolución+robótica+comienza+aquí!" alt="Title"></img>
+
+# ¡​ʙɪᴇɴᴠᴇɴɪᴅᴏꜱ ᴀʟ ꜱᴇᴍɪʟʟᴇʀᴏ ᴅᴇ ʀᴏʙÓᴛɪᴄᴀ❗ (💻💖🤖🎉)
+
+<img src="/img/semillero/background.png" width="300"/>
+	
+	
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=22&width=600&lines=Diseñar🎨+Desarrollar🛠️+Construir🏗️+Programar💻;Investigar🔍+Optimizar📈+Simular🔄+Modelar🏭)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="/img/semillero/siro.gif" width="100"/>
+<img src="/img/semillero/simulacion.gif" width="100"/>
+<img src="/img/semillero/carrera.gif" width="100"/>
+<img src="/img/semillero/teleoperado.gif" width="100"/>
+</div>
+
+<a href="#"><img src="/img/semillero/background.png" width="100" align="right"  alt="robot siro"/></a>
+
+ᴀQᴜÍ ᴘᴏᴅʀÁɴ ᴀᴘʀᴇɴᴅᴇʀ, ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʀ ʏ ᴅᴀʀ ʀɪᴇɴᴅᴀ ꜱᴜᴇʟᴛᴀ ᴀ ꜱᴜ ᴄʀᴇᴀᴛɪᴠɪᴅᴀᴅ ᴇɴ ᴇʟ ᴇᴍᴏᴄɪᴏɴᴀɴᴛᴇ ᴍᴜɴᴅᴏ ᴅᴇ ʟᴀ ʀᴏʙÓᴛɪᴄᴀ. 💻💖☕
+
+- **ᴛᴀʟʟᴇʀᴇꜱ ᴅᴇ ᴄᴏɴꜱᴛʀᴜᴄᴄɪÓɴ ᴅᴇ ʀᴏʙᴏᴛꜱ**: 🤖🔧 ᴏʀɢᴀɴɪᴢᴀʀᴇᴍᴏꜱ ᴛᴀʟʟᴇʀᴇꜱ ᴅᴏɴᴅᴇ ʟᴏꜱ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛᴇꜱ ᴀᴘʀᴇɴᴅᴇʀÁɴ ᴀ ᴄᴏɴꜱᴛʀᴜɪʀ ʀᴏʙᴏᴛꜱ ᴜᴛɪʟɪᴢᴀɴᴅᴏ ᴋɪᴛꜱ ᴅᴇ ʀᴏʙÓᴛɪᴄᴀ, ᴍᴀᴛᴇʀɪᴀʟᴇꜱ ꜱɪᴍᴘʟᴇꜱ ᴏ ᴘɪᴇᴢᴀꜱ ʀᴇᴄɪᴄʟᴀᴅᴀꜱ ᴅᴇ ᴊᴜɢᴜᴇᴛᴇꜱ.
+  
+- **ᴘʀᴏɢʀᴀᴍᴀᴄɪÓɴ ᴅᴇ ʀᴏʙᴏᴛꜱ**: 💻🤖 ᴅᴇꜱᴘᴜÉꜱ ᴅᴇ ᴄᴏɴꜱᴛʀᴜɪʀʟᴏꜱ, ¡ʟᴇꜱ ᴅᴀʀᴇᴍᴏꜱ ᴠɪᴅᴀ! ᴀᴘʀᴇɴᴅᴇʀᴇᴍᴏꜱ ᴀ ᴘʀᴏɢʀᴀᴍᴀʀʟᴏꜱ ᴘᴀʀᴀ Qᴜᴇ ꜱᴇ ᴍᴜᴇᴠᴀɴ ʏ ʀᴇᴀʟɪᴄᴇɴ ᴛᴀʀᴇᴀꜱ ɪɴᴄʀᴇÍʙʟᴇꜱ.
+  
+- **ᴄᴏᴍᴘᴇᴛᴇɴᴄɪᴀꜱ ᴅᴇ ʀᴏʙᴏᴛꜱ**: 🏁🤖 ¡ʜᴏʀᴀ ᴅᴇ ʟᴀ ᴀᴄᴄɪÓɴ! ᴏʀɢᴀɴɪᴢᴀʀᴇᴍᴏꜱ ᴏ ᴘᴀʀᴛɪᴄɪᴘᴀʀᴇᴍᴏꜱ ᴇɴ ᴄᴏᴍᴘᴇᴛɪᴄɪᴏɴᴇꜱ ᴅᴏɴᴅᴇ ɴᴜᴇꜱᴛʀᴏꜱ ʀᴏʙᴏᴛꜱ ᴇɴꜰʀᴇɴᴛᴀʀÁɴ ᴇᴍᴏᴄɪᴏɴᴀɴᴛᴇꜱ ᴅᴇꜱᴀꜰÍᴏꜱ.
+  
+- **ᴘʀᴏʏᴇᴄᴛᴏꜱ ᴅᴇ ɪɴɢᴇɴɪᴇʀÍᴀ**: 🛠️💡 ᴛʀᴀʙᴀᴊᴀʀᴇᴍᴏꜱ ᴇɴ ᴘʀᴏʏᴇᴄᴛᴏꜱ ᴅᴇ ɪɴɢᴇɴɪᴇʀÍᴀ ᴄᴏᴍᴏ ʟᴀ ᴄᴏɴꜱᴛʀᴜᴄᴄɪÓɴ ᴅᴇ ʙʀᴀᴢᴏꜱ ʀᴏʙÓᴛɪᴄᴏꜱ, ᴠᴇʜÍᴄᴜʟᴏꜱ ᴀᴜᴛÓɴᴏᴍᴏꜱ ᴇ ɪɴᴄʟᴜꜱᴏ ꜱɪꜱᴛᴇᴍᴀꜱ ᴅᴇ ᴄᴏɴᴛʀᴏʟ ᴀᴜᴛᴏᴍᴀᴛɪᴢᴀᴅᴏ. ᴛᴀᴍʙɪÉɴ ᴇxᴘʟᴏʀᴀʀᴇᴍᴏꜱ ᴛᴇᴍᴀꜱ ᴠᴀɴɢᴜᴀʀᴅɪꜱᴛᴀꜱ ᴄᴏᴍᴏ ʟᴀ ɪɴᴛᴇʟɪɢᴇɴᴄɪᴀ ᴀʀᴛɪꜰɪᴄɪᴀʟ, ᴇɴᴛʀᴇ ᴏᴛʀᴏꜱ.
+  
+- **ᴄʜᴀʀʟᴀꜱ ʏ ᴘʀᴇꜱᴇɴᴛᴀᴄɪᴏɴᴇꜱ**: 🎤💬 ɪɴᴠɪᴛᴀʀᴇᴍᴏꜱ ᴀ ᴇxᴘᴇʀᴛᴏꜱ ᴇɴ ʀᴏʙÓᴛɪᴄᴀ ᴇ ɪɴɢᴇɴɪᴇʀÍᴀ ᴘᴀʀᴀ Qᴜᴇ ᴄᴏᴍᴘᴀʀᴛᴀɴ ꜱᴜꜱ ᴇxᴘᴇʀɪᴇɴᴄɪᴀꜱ ʏ ᴘʀᴏʏᴇᴄᴛᴏꜱ ᴄᴏɴ ɴᴏꜱᴏᴛʀᴏꜱ.
+  
+- **ɪɴᴠᴇꜱᴛɪɢᴀᴄɪÓɴ ʏ ᴅᴇꜱᴀʀʀᴏʟʟᴏ**: 🚀🔬 ꜰᴏᴍᴇɴᴛᴀʀᴇᴍᴏꜱ ʟᴀ ɪɴᴠᴇꜱᴛɪɢᴀᴄɪÓɴ ʏ ᴇʟ ᴅᴇꜱᴀʀʀᴏʟʟᴏ ᴅᴇ ɴᴜᴇᴠᴀꜱ ɪᴅᴇᴀꜱ ᴇɴ ᴇʟ ᴄᴀᴍᴘᴏ ᴅᴇ ʟᴀ ʀᴏʙÓᴛɪᴄᴀ.
+  
+- **ᴄᴏʟᴀʙᴏʀᴀᴄɪÓɴ ᴄᴏɴ ᴏᴛʀᴀꜱ ɪɴꜱᴛɪᴛᴜᴄɪᴏɴᴇꜱ**: 🤝🏫 ʙᴜꜱᴄᴀʀᴇᴍᴏꜱ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇꜱ ᴘᴀʀᴀ ᴄᴏʟᴀʙᴏʀᴀʀ ᴄᴏɴ ᴏᴛʀᴀꜱ ᴇꜱᴄᴜᴇʟᴀꜱ, ᴇᴍᴘʀᴇꜱᴀꜱ ᴏ ᴇɴᴛɪᴅᴀᴅᴇꜱ ɪɴᴛᴇʀᴇꜱᴀᴅᴀꜱ ᴇɴ ᴠɪɴᴄᴜʟᴀʀꜱᴇ ᴄᴏɴ ɴᴜᴇꜱᴛʀᴏ ꜱᴇᴍɪʟʟᴇʀᴏ ᴇɴ ᴘʀᴏʏᴇᴄᴛᴏꜱ ᴅᴇ ʀᴏʙÓᴛɪᴄᴀ.
 
 
-# ¡Bienvenidos al semillero de robótica! (💻💖☕)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Diseñar+Desarrollar+Construir+Programar;Investigar+Optimizar+Simular+Modelar)](https://git.io/typing-svg)
-
-
-Aquí podrán aprender, experimentar y dar rienda suelta a su creatividad en el emocionante mundo de la robótica. 💻💖☕
-
-
-- 🧐🌱🚀🤓 Investigar y desarrollar nuevas tecnologías de robótica en diversas áreas, como la medicina, la industria y la exploración espacial.
-- 🎮👩‍🔧🗜 Crear prototipos de robots avanzados que sean capaces de realizar tareas complejas y útiles en la vida real.
-- 👾🎯🕹  Diseñar y desarrollar sistemas robóticos autónomos y sistemas multi-robot que puedan colaborar entre sí para lograr objetivos específicos.
-- 👩‍💻💻🧮 Desarrollar software y algoritmos de control robótico avanzados para mejorar la eficiencia y precisión de los robots.
-- 🦾🤖 Investigar nuevos materiales y tecnologías de fabricación para mejorar la resistencia y capacidad de los robots.
-- 🚦🚧🚨 Realizar simulaciones y pruebas experimentales para evaluar el rendimiento y la eficacia de los robots.
-- 🧿📺🎛 Participar en proyectos interdisciplinarios que aborden desafíos complejos en diversas áreas, como la salud, el transporte y la energía.
-- 📌📊📋 Presentar los resultados de investigación en conferencias, publicaciones y eventos de divulgación para compartir conocimientos y fomentar el intercambio de ideas.
-- 🏡🏢💁‍♀️🤵   Colaborar con empresas y organizaciones externas para desarrollar soluciones de robótica para problemas del mundo real.
-- 👨‍🏫 👩‍🎓👨‍🎓 Formar y guiar a estudiantes de pregrado y posgrado en la investigación y el desarrollo de proyectos de robótica avanzada.
  
 <br>
 
@@ -39,34 +56,29 @@ Aquí podrán aprender, experimentar y dar rienda suelta a su creatividad en el 
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>
 	
-</div>
-
-
-
-
-## 🎵 programmer music
-	
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-	
-	
-</div>
 
 <div align="center">
-## 🍀 Sponsors and Supporters
+
+## ᴇQᴜɪᴘᴏ ᴅᴇ ʀᴏʙᴏᴛɪꜱᴛᴀꜱ 🤝
+<img src="/img/semillero/team2.jpg" width="340"/>
+
+## 🍀 TOMEMOS UN CAFÉ
 
 [![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee)
 
 
-    
-**¡Hey tú!** Si te ha gustado lo que hacemos [invitanos un café](https://bmc.xyz),  Sería una forma genial de apoyarnos y seguir adelante con nuestros proyectos.
+**¡ʜᴇʏ ᴛÚ!** ꜱɪ ᴛᴇ ʜᴀ ɢᴜꜱᴛᴀᴅᴏ ʟᴏ Qᴜᴇ ʜᴀᴄᴇᴍᴏꜱ [ɪɴᴠɪᴛᴀɴᴏꜱ ᴜɴ ᴄᴀꜰÉ](ʜᴛᴛᴘꜱ://ʙᴍᴄ.xʏᴢ),  ꜱᴇʀÍᴀ ᴜɴᴀ ꜰᴏʀᴍᴀ ɢᴇɴɪᴀʟ ᴅᴇ ᴀᴘᴏʏᴀʀɴᴏꜱ ʏ ꜱᴇɢᴜɪʀ ᴀᴅᴇʟᴀɴᴛᴇ ᴄᴏɴ ɴᴜᴇꜱᴛʀᴏꜱ ᴘʀᴏʏᴇᴄᴛᴏꜱ.
 
 ---
 	
 
-	
 <br>
-  😍 Muchas gracias por visitar el semillero, que tengas lindo día! 😉
+ 😍 ​ᴍᴜᴄʜᴀꜱ ɢʀᴀᴄɪᴀꜱ ᴘᴏʀ ᴠɪꜱɪᴛᴀʀ ᴇʟ ꜱᴇᴍɪʟʟᴇʀᴏ, Qᴜᴇ ᴛᴇɴɢᴀꜱ ʟɪɴᴅᴏ ᴅÍᴀ​❗ 😉
   <br/>  
-  &copy; 2023 Semillero Robótica Utadeo
+  &copy; 2023 ꜱᴇᴍɪʟʟᴇʀᴏ ᴅᴇ ʀᴏʙÓᴛɪᴄᴀ ᴜᴛᴀᴅᴇᴏ
 </div>
+ 
+<!-- 
+  Generar fuentes
+  https://lingojam.com/FancyTextGenerator 
+-->
