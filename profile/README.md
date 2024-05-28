@@ -12,10 +12,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=22&width=600&lines=Diseñar🎨+Desarrollar🛠️+Construir🏗️+Programar💻;Investigar🔍+Optimizar📈+Simular🔄+Modelar🏭)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="/img/semillero/siro.gif" width="100"/>
-<img src="/img/semillero/simulacion.gif" width="100"/>
-<img src="/img/semillero/carrera.gif" width="100"/>
-<img src="/img/semillero/teleoperado.gif" width="100"/>
+<img src="https://github.com/TadeoRoboticsGroup/.github/blob/main/img/semillero/siro.gif" width="100"/>
+<img src="https://github.com/TadeoRoboticsGroup/.github/blob/main/img/semillero/simulacion.gif" width="100"/>
+<img src="https://github.com/TadeoRoboticsGroup/.github/blob/main/img/semillero/carrera.gif" width="100"/>
+<img src="https://github.com/TadeoRoboticsGroup/.github/blob/main/img/semillero/teleoperado.gif" width="100"/>
 </div>
 
 
@@ -59,7 +59,7 @@
 <div align="center">
 
 ## ᴇQᴜɪᴘᴏ ᴅᴇ ʀᴏʙᴏᴛɪꜱᴛᴀꜱ 🤝
-<img src="/img/semillero/team2.jpg" width="340"/>
+<img src="https://github.com/TadeoRoboticsGroup/.github/blob/main/img/semillero/team2.jpg" width="340"/>
 
 ## 🍀 ɪɴᴠɪᴛᴀɴᴏꜱ ᴀ ᴜɴ ᴄᴀꜰÉ ʏ ʜᴀʙʟᴇᴍᴏꜱ ᴅᴇ ʀᴏʙᴏᴛꜱ ☕
 
