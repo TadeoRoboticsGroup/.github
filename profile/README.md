@@ -4,7 +4,7 @@
 
 # ¡​ʙɪᴇɴᴠᴇɴɪᴅᴏꜱ ᴀʟ ꜱᴇᴍɪʟʟᴇʀᴏ ᴅᴇ ʀᴏʙÓᴛɪᴄᴀ❗ (💻💖🤖🎉)
 
-<img src="/img/semillero/background.png" width="300"/>
+<img src="/img/semillero/background-black.jpg" width="300"/>
 	
 	
 </div>
